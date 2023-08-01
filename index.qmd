@@ -1,0 +1,55 @@
+---
+title: "ES103M : IITTP"
+---
+
+![](https://www.iittp.ac.in/images/demo/iit/Other/logoupdated.png){width="30%"}
+
+#  ES103M   
+## Introduction to programming
+
+This course is an introduction to the basics of programming.
+
+## Course Objectives
+
+By the end of this course, you will be able to:
+
+* Write simple programs in a **c** or **c++** programming language .
+* Understand the basic concepts of programming, such as variables, data types, control flow, and functions.
+* Apply programming concepts to solve problems.
+* Developing problem solving skills
+
+|Introduction to Programming||
+|------|------|
+|Course number|ES103M|
+|Structure of credits | 2-0-3-4 |
+|Offered to | UG |
+|To be offered by | Department of Computer Science and Engineering|
+|To take effect from | Sept 2023|
+|Prerequisite | Nil|
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+This is a [ES103M] website.
+
+To learn more visit Institute course websites  <https://www.iittp.ac.in/academics/syllabus>
+# ES103M
+## Introduction to programming
+
+
